@@ -8,5 +8,4 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/mrinal-birthday-surprise/' 
   },
-  ssr:false,
 })
